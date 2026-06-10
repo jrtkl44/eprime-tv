@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
+#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA" categories="FIFA",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwB7VrdMk9Dcmw5OWzADyfTfHEECFheXfQRg&s" group-title="FM-Radio",Bangladesh Betar
 https://as1.digitalsynapsebd.com/proxy/bbrajmw/stream/1/
@@ -7,11 +7,11 @@ https://as1.digitalsynapsebd.com/proxy/bbrajmw/stream/1/
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="https://alqurans.com/img/peace_tv_bangla.png" group-title="Islamic",Peace tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/uefa-champions-league-1.svg" group-title="SPORTS", football/soccer
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/uefa-champions-league-1.svg" group-title="SPORTS" categories="FIFA", football/soccer
 http://198.195.239.50:8095/SonyTenSports2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/1/t-sports-logo-png_seeklogo-640172.png" group-title="SPORTS",T Sports
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/1/t-sports-logo-png_seeklogo-640172.png" group-title="SPORTS" categories="FIFA",T Sports
 https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/1/t-sports-logo-png_seeklogo-640172.png" group-title="SPORTS",T Sports 2
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/1/t-sports-logo-png_seeklogo-640172.png" group-title="SPORTS" categories="FIFA",T Sports 2
 http://100.64.32.2:8080/wetvlink/wetvlink/161.m3u8
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/0/7/3/073f6e27b3a16c3acf96695598baeed8_icon.png" group-title="SPORTS",WATAN HD
 https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8
