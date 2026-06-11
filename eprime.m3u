@@ -13,6 +13,8 @@ http://198.195.239.50:8095/SonyTenSports2/tracks-v1a1/mono.m3u8
 https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/1/t-sports-logo-png_seeklogo-640172.png" group-title="SPORTS" categories="FIFA",T Sports 2
 http://100.64.32.2:8080/wetvlink/wetvlink/161.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/1/t-sports-logo-png_seeklogo-640172.png" group-title="SPORTS" categories="FIFA",T Sports 3
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/0/7/3/073f6e27b3a16c3acf96695598baeed8_icon.png" group-title="SPORTS",WATAN HD
 https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/947861.jpg" group-title="SPORTS",Star Sports 1 Hindi(link-1)
