@@ -17,8 +17,8 @@ http://100.64.32.2:8080/wetvlink/wetvlink/161.m3u8
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/0/7/3/073f6e27b3a16c3acf96695598baeed8_icon.png" group-title="SPORTS",WATAN HD
 https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/947861.jpg" group-title="SPORTS",Star Sports 1 Hindi(link-1)
-http://103.229.254.25:7001/play/a0dn/index.m3u8
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/947861.jpg" group-title="SPORTS",Star Sports 1(link-1)
+https://tvsen7.aynaott.com/sspts1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.freeintertv.com/modules/Main/image_1/star_sports.jpg" group-title="SPORTS",Star Sports-1 Hindi(link-2)
 https://starsportshindiii.pages.dev/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SPORTS",Sony Sports-5
