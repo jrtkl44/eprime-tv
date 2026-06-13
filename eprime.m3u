@@ -15,10 +15,14 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS" categories="FIFA",PTV Sports
 https://tvsen5.aynaott.com/PtvSports/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/250px-Win_Sports_nuevo_logo.svg.png?utm_source=www.wikidata.org&amp;utm_campaign=index&amp;utm_content=thumbnail" group-title="SPORTS" categories="FIFA",WIN Sports
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp9632392.png" group-title="SPORTS" categories="FIFA", beiN Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/TyC_Sports_Logo.svg/250px-TyC_Sports_Logo.svg.png?utm_source=www.wikidata.org&amp;utm_campaign=index&amp;utm_content=thumbnail" group-title="SPORTS" categories="FIFA",TYC Sports
-http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
+https://deviantart.lovetier.bz/TYCSPT/index.m3u8?token=VFlDU1BUfG5vX2NoZWNrX2lwfDE3ODEzNTM5MDg=.9e942a676ba43d3e80d1e25febec65fcc0e4056695bf8024f041de88f9bf40ea
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/TyC_Sports_Logo.svg/250px-TyC_Sports_Logo.svg.png?utm_source=www.wikidata.org&amp;utm_campaign=index&amp;utm_content=thumbnail" group-title="SPORTS" categories="FIFA",TYC Sports 2
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Caz%C3%A9TV_logo.svg" group-title="SPORTS" categories="FIFA",Caze TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4" group-title="SPORTS" categories="FIFA",DD Sports
