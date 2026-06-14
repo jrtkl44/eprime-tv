@@ -21,6 +21,8 @@ http://209.97.175.236/hls/stream.m3u8
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp9632392.png" group-title="SPORTS" categories="FIFA", beiN Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEWMSldb0AAWqY4.jpg" group-title="SPORTS" categories="FIFA",Tapmad
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/TyC_Sports_Logo.svg/250px-TyC_Sports_Logo.svg.png?utm_source=www.wikidata.org&amp;utm_campaign=index&amp;utm_content=thumbnail" group-title="SPORTS" categories="FIFA",TYC Sports
 https://deviantart.lovetier.bz/TYCSPT/index.m3u8?token=VFlDU1BUfG5vX2NoZWNrX2lwfDE3ODEzNTM5MDg=.9e942a676ba43d3e80d1e25febec65fcc0e4056695bf8024f041de88f9bf40ea
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/TyC_Sports_Logo.svg/250px-TyC_Sports_Logo.svg.png?utm_source=www.wikidata.org&amp;utm_campaign=index&amp;utm_content=thumbnail" group-title="SPORTS" categories="FIFA",TYC Sports 2
