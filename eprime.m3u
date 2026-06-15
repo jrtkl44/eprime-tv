@@ -21,7 +21,7 @@ http://209.97.175.236/hls/stream.m3u8
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp9632392.png" group-title="SPORTS" categories="FIFA",🔴 beiN Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp9632392.png" group-title="SPORTS" categories="FIFA",🔴 beiN Sports Xtra
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp9632392.png" group-title="SPORTS" categories="",beiN Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEWMSldb0AAWqY4.jpg" group-title="SPORTS" categories="FIFA",🔴 Tapmad
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
