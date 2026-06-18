@@ -30,6 +30,8 @@ https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HEWMSldb0AAWqY4.jpg" group-title="SPORTS" categories="FIFA",🔴 Tapmad
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/155155-Z1.jpg" group-title="SPORTS" categories="FIFA",🔴 UNITE8 Sports
+https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="SPORTS" categories="FIFA",🔴 DIRECTV Sports
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.quadro.net/app/uploads/2019/08/DAZN_Edit.png?x49340" group-title="SPORTS" categories="FIFA",🔴 DAZN
@@ -154,5 +156,11 @@ http://103.175.242.10:8080/colorsbangla/index.m3u8
 https://edge2.roarzone.net:8447/roarzone/edge3/sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://c.kmpr.in/assets/tv_channels_150/5224.jpg" group-title="MUSIC",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/1143_2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/FalconCast.png" group-title="Promo",FalconCast
+https://raw.githubusercontent.com/falconcasthoster/promo/refs/heads/main/nolink/master.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026",FIFA Live 🇦🇺 🇹🇷
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Tv",FIFA WORLD CUP LIVE-1
+http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/f1KLUpaW7rbXhUm5SxG1lpPFFCJ.jpg" group-title="Movies",Sky Force (2025)
 https://stream.hownetwork.xyz/xxx/sky-force-2025-hdcam_X_48c5a498/29/480.m3u8
