@@ -54,7 +54,7 @@ http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/947861.jpg" group-title="SPORTS",Star Sports 1(link-1)
 https://tvsen7.aynaott.com/sspts1/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.freeintertv.com/modules/Main/image_1/star_sports.jpg" group-title="SPORTS",Star Sports-1 Hindi(link-2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/960px-Star_Sports_1_HD.png" group-title="SPORTS",Star Sports-1
 https://starsportshindiii.pages.dev/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SPORTS",Sony Sports-5
 http://103.99.249.139/sonyten3/index.m3u8
@@ -146,7 +146,7 @@ https://stream.ottplus.bd/live/discovery_science_abr/index.m3u8
 http://103.175.242.10:8080/natgeo/index.m3u8
 #EXTINF:-1 tvg-logo="https://intvschedule.com/wp-content/uploads/2025/09/Star-Jalsha.webp" group-title="Indian-Bangla",Star Jalsha
 https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_jalsha_movies_in.png" group-title="Indian-Bangla",Jalsha Movies
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m-ErSMpMzKe9hSvK2-i-y3z7-1SA3Q5r_irXehULBv9R0=s900-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla",Jalsha Movies
 http://103.175.242.10:8080/jalshamovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
 https://stream.ottplus.live/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
