@@ -15,7 +15,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS" categories="FIFA",PTV Sports
 https://tvsen5.aynaott.com/PtvSports/index.m3u8
-#EXTINF:-1 tvg-logo="https://news.cgtn.com/news/2022-02-25/Paris-replaces-St-Petersburg-as-UEFA-Champions-League-final-location-17WwfEUaSpG/img/58b7c109456c45008155bc72a93d97bf/58b7c109456c45008155bc72a93d97bf.jpeg" group-title="SPORTS" categories="FIFA",League
+#EXTINF:-1 tvg-logo="https://news.cgtn.com/news/2022-02-25/Paris-replaces-St-Petersburg-as-UEFA-Champions-League-final-location-17WwfEUaSpG/img/58b7c109456c45008155bc72a93d97bf/58b7c109456c45008155bc72a93d97bf.jpeg" group-title="SPORTS" categories="",League
 http://209.97.175.236/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/250px-Win_Sports_nuevo_logo.svg.png?utm_source=www.wikidata.org&amp;utm_campaign=index&amp;utm_content=thumbnail" group-title="SPORTS" categories="FIFA",WIN Sports
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
