@@ -166,3 +166,5 @@ http://84.17.50.102/fox/index.m3u8
 https://mflixott.com/tv/dd/live.php?id=270&cid=270
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/f1KLUpaW7rbXhUm5SxG1lpPFFCJ.jpg" group-title="Movies",Sky Force (2025)
 https://stream.hownetwork.xyz/xxx/sky-force-2025-hdcam_X_48c5a498/29/480.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UqkSOn7d1WntmCHXSTJcpOr2b_cnR27YGoYB36JOwDgn-TQv5fzteiPZfDmTQHTWOOg4B2YB1DMSTCH80O_KXdM" group-title="Live Tv",Toffee Live
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1781889962~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ__yhQoYQ9quTfH5m5S8aVHfNHn65noStJ3WkyY-eBA7y2smXsQ1P_0pKKB1Jc2CsEoHWlzkjB9zSNYr6xh7NsG
