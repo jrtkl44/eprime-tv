@@ -64,6 +64,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-vid
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/53/2/somoy-tv-logo-png_seeklogo-536972.png" group-title="BANGLA",SOMOY TV 2
 http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/53/2/somoy-tv-logo-png_seeklogo-536972.png" group-title="BANGLA",SOMOY TV 3
+http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/gtv.jpg" group-title="BANGLA",Gazi TV
