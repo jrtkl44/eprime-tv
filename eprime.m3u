@@ -1,3 +1,19 @@
+# ==================================================
+# Playlist Name : ePrime
+# Owner         : JR Torikul
+# Created By    : Endpoint Prime
+# Last Update   : 19 June 2026
+# Contact       : 
+#
+# Description:
+# Free live TV playlist collection.
+# Optimized for IPTV players.
+#
+# Note:
+# Do not edit channel information without permission.
+# ==================================================
+
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
 http://103.14.151.101:11/manik-kuttar-baccha-telegram-batpar.m3u8
