@@ -2,7 +2,7 @@
 # Playlist Name : ePrime
 # Owner         : JR Torikul
 # Created By    : Endpoint Prime
-# Last Update   : 19 June 2026
+# Last Update   : 03:14 PM,19 June 2026
 # Contact       : 
 #
 # Description:
@@ -216,10 +216,10 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://srktvplus.com/wp-content/uploads/elementor/thumbs/SRK-TV-plus-Logo-17MAR25-r3599ir9na5ybl8f1lcdpofzlufod567se6fvzouym.png" group-title="Kids",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="edge3/cartoon-network-hd" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo-500x375.jpg" group-title="kids",Cartoon Network Hd
+#EXTINF:-1 tvg-id="edge3/cartoon-network-hd" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo-500x375.jpg" group-title="Kids",Cartoon Network Hd
 https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 
-#EXTINF:-1 tvg-id="edge3/cartoon-network" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo-500x375.jpg" group-title="kids",Cartoon Network
+#EXTINF:-1 tvg-id="edge3/cartoon-network" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo-500x375.jpg" group-title="Kids",Cartoon Network
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvY2FydG9vbi1uZXR3b3Jr&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Motu_Patlu.Jpg/250px-Motu_Patlu.Jpg" group-title="Kids",Motu Patlu
