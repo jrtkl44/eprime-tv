@@ -18,7 +18,7 @@
 
 # ====== Govt-owned National Channel =======
 
-#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
+#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA" categories="FIFA",BTV
 http://103.14.151.101:11/manik-kuttar-baccha-telegram-batpar.m3u8
 
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA" categories="",BTV HD
